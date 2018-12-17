@@ -1,2 +1,1 @@
-# max180643.github.io
-This is website host by github
+This is website host by Github 
