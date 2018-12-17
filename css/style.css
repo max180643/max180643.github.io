@@ -1,0 +1,21 @@
+body {
+  font-family: 'Mitr', sans-serif;
+  background: url("./img/bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+.text {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.link {
+  color: white;
+  font-size: 3vw;
+  letter-spacing: 5px;
+}
